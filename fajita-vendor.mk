@@ -30,7 +30,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/fajita/proprietary/vendor/lib/camera/oneplus6_vstab_db_0_720p_video_30fps.config:$(TARGET_COPY_OUT_VENDOR)/lib/camera/oneplus6_vstab_db_0_720p_video_30fps.config \
     vendor/oneplus/fajita/proprietary/vendor/lib/camera/oneplus6_vstab_db_1_1080p_video_30fps.config:$(TARGET_COPY_OUT_VENDOR)/lib/camera/oneplus6_vstab_db_1_1080p_video_30fps.config \
     vendor/oneplus/fajita/proprietary/vendor/lib/camera/oneplus6_vstab_db_1_720p_video_30fps.config:$(TARGET_COPY_OUT_VENDOR)/lib/camera/oneplus6_vstab_db_1_720p_video_30fps.config \
-    vendor/oneplus/fajita/proprietary/vendor/lib/hw/camera.qcom.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.qcom.so \
     vendor/oneplus/fajita/proprietary/vendor/lib64/fp_hal_extension.so:$(TARGET_COPY_OUT_VENDOR)/lib64/fp_hal_extension.so \
     vendor/oneplus/fajita/proprietary/vendor/lib64/hw/goodix.fod.sdm845.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/goodix.fod.sdm845.so \
     vendor/oneplus/fajita/proprietary/vendor/lib64/libgf_ud_hal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgf_ud_hal.so \
